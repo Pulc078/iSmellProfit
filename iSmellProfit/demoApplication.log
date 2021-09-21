@@ -1,0 +1,674 @@
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 2
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 3
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 4
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 5
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 6
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 7
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 8
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 9
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 10
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 11
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 15
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 23
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 27
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 28
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 29
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 32
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 34
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 24
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Convulsion cérébrale', nameVo='Mind Twist', extension='Revised - 3ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Plume, l'affranchie', nameVo='Feather, the Redeemed', extension='Spirale Temporelle Remastered Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Calice du vide', nameVo='Chalice of the Void', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diabolique dessein', nameVo='Diabolic Intent', extension='Planeshift', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aeolipile', nameVo='Aeolipile', extension='Fallen Empires', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sphère de résistance', nameVo='Sphere of Resistance', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Klauth, ancêtre sans égal', nameVo='Klauth, Unrivaled Ancient', extension='Commander D&D : Aventures dans les Royaumes Oubliés Extras', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Excavations soldevies', nameVo='Soldevi Excavations', extension='Alliances', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cape de la nature', nameVo='Nature's Cloak', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Burning Fields', nameVo='Burning Fields', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Counterintelligence', nameVo='Counterintelligence', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desperate Charge', nameVo='Desperate Charge', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rockslide Ambush', nameVo='Rockslide Ambush', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shu Soldier-Farmers', nameVo='Shu Soldier-Farmers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Trained Cheetah', nameVo='Trained Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Enchevêtrement de câbles', nameVo='Tangle Wire', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Commandement de Prismari', nameVo='Prismari Command', extension='Strixhaven : l'académie des mages', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fête fracassante', nameVo='Shattering Spree', extension='Kits de Guilde : Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diamant de l'oeil du lion', nameVo='Lion's Eye Diamond', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karakas', nameVo='Karakas', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='75.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aucune pitié', nameVo='No Mercy', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='60.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Beledros Flestrefleur', nameVo='Beledros Witherbloom', extension='Strixhaven : l'académie des mages Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aperçu de la nature', nameVo='Glimpse of Nature', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome d'Indatha', nameVo='Indatha Triome', extension='Ikoria La Terre des Béhémoths Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 2
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 3
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 4
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 5
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 6
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 7
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 8
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 9
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 10
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 11
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 15
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 23
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 27
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 28
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 29
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 32
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 34
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35
+[main] INFO  service.MagicBazarReader  - javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 24
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Convulsion cérébrale', nameVo='Mind Twist', extension='Revised - 3ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Plume, l'affranchie', nameVo='Feather, the Redeemed', extension='Spirale Temporelle Remastered Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Calice du vide', nameVo='Chalice of the Void', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diabolique dessein', nameVo='Diabolic Intent', extension='Planeshift', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aeolipile', nameVo='Aeolipile', extension='Fallen Empires', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sphère de résistance', nameVo='Sphere of Resistance', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Klauth, ancêtre sans égal', nameVo='Klauth, Unrivaled Ancient', extension='Commander D&D : Aventures dans les Royaumes Oubliés Extras', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Excavations soldevies', nameVo='Soldevi Excavations', extension='Alliances', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cape de la nature', nameVo='Nature's Cloak', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Burning Fields', nameVo='Burning Fields', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Counterintelligence', nameVo='Counterintelligence', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desperate Charge', nameVo='Desperate Charge', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rockslide Ambush', nameVo='Rockslide Ambush', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shu Soldier-Farmers', nameVo='Shu Soldier-Farmers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Trained Cheetah', nameVo='Trained Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Enchevêtrement de câbles', nameVo='Tangle Wire', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Commandement de Prismari', nameVo='Prismari Command', extension='Strixhaven : l'académie des mages', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fête fracassante', nameVo='Shattering Spree', extension='Kits de Guilde : Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diamant de l'oeil du lion', nameVo='Lion's Eye Diamond', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karakas', nameVo='Karakas', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='75.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aucune pitié', nameVo='No Mercy', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='60.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Beledros Flestrefleur', nameVo='Beledros Witherbloom', extension='Strixhaven : l'académie des mages Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aperçu de la nature', nameVo='Glimpse of Nature', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome d'Indatha', nameVo='Indatha Triome', extension='Ikoria La Terre des Béhémoths Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 2 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 3 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 4 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 5 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 6 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 7 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 8 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 9 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 10 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 11 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 15 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 23 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 27 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 28 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 29 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 32 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 34 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 24
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Convulsion cérébrale', nameVo='Mind Twist', extension='Revised - 3ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Plume, l'affranchie', nameVo='Feather, the Redeemed', extension='Spirale Temporelle Remastered Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Calice du vide', nameVo='Chalice of the Void', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diabolique dessein', nameVo='Diabolic Intent', extension='Planeshift', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aeolipile', nameVo='Aeolipile', extension='Fallen Empires', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sphère de résistance', nameVo='Sphere of Resistance', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Klauth, ancêtre sans égal', nameVo='Klauth, Unrivaled Ancient', extension='Commander D&D : Aventures dans les Royaumes Oubliés Extras', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Excavations soldevies', nameVo='Soldevi Excavations', extension='Alliances', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cape de la nature', nameVo='Nature's Cloak', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Burning Fields', nameVo='Burning Fields', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Counterintelligence', nameVo='Counterintelligence', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desperate Charge', nameVo='Desperate Charge', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rockslide Ambush', nameVo='Rockslide Ambush', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shu Soldier-Farmers', nameVo='Shu Soldier-Farmers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Trained Cheetah', nameVo='Trained Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Enchevêtrement de câbles', nameVo='Tangle Wire', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Commandement de Prismari', nameVo='Prismari Command', extension='Strixhaven : l'académie des mages', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fête fracassante', nameVo='Shattering Spree', extension='Kits de Guilde : Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diamant de l'oeil du lion', nameVo='Lion's Eye Diamond', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karakas', nameVo='Karakas', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='75.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aucune pitié', nameVo='No Mercy', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='60.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Beledros Flestrefleur', nameVo='Beledros Witherbloom', extension='Strixhaven : l'académie des mages Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aperçu de la nature', nameVo='Glimpse of Nature', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome d'Indatha', nameVo='Indatha Triome', extension='Ikoria La Terre des Béhémoths Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[ForkJoinPool.commonPool-worker-17] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =5 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-27] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-3] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =1 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =2 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-21] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-5] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-19] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =4 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =8 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-27] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-3] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page =7 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-19] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-21] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-5] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 15 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 25 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 11 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 20 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-27] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 28 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-31] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 32 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-5] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 29 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-19] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =6 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 23 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-13] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 22 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-21] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 19 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 17 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 26 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 12 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 21 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-5] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 30 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-31] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 31 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-27] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 27 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-19] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =5 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-13] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 34 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-21] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 18 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 16 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 24 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =3 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-27] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 35 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-5] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 33 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-23] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =9 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-31] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =8 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-19] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =2 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-13] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =7 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-21] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 14 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-17] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =1 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-7] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page =4 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-9] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 13 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[ForkJoinPool.commonPool-worker-3] INFO  ISmellProfits  - Impossible de récuppérer les éléments de la page 10 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 286
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Phénax, dieu de la Fourberie', nameVo='Phenax, God of Deception', extension='Créations Divines', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Super Secret Tech', nameVo='Super Secret Tech', extension='Unhinged', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Prêtresse de Titania', nameVo='Priest of Titania', extension='Epopée d'Urza', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Golem de mycosynthèse', nameVo='Mycosynth Golem', extension='5ème Aube', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Contribution foncière', nameVo='Land Tax', extension='4ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desert Sandstorm', nameVo='Desert Sandstorm', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Essaim de slivoïdes', nameVo='Sliver Hive', extension='Magic 2015', lang='Anglais', etat='Mint/Nmint', buyPrice='18.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fondrière crépusculaire', nameVo='Twilight Mire', extension='Double Masters', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Planétaire mécanique vedalken', nameVo='Vedalken Orrery', extension='5ème Aube', lang='Anglais', etat='Mint/Nmint', buyPrice='14.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Assaut du caveau / Caveau de Catlacan', nameVo='Storm the Vault // Vault of Catlacan', extension='Les combattants d'Ixalan', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Salle du rêve', nameVo='Dream Halls', extension='Forteresse', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gisela, lame d'Ornuit', nameVo='Gisela, Blade of Goldnight', extension='Commander 2015', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cimetière surpeuplé', nameVo='Oversold Cemetery', extension='Carnage', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Seigneur du Vide', nameVo='Lord of the Void', extension='Insurrection', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lame des égos', nameVo='Blade of Selves', extension='Commander 2015', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Liliana, mage de mort', nameVo='Liliana, Death Mage', extension='Édition de base 2021 Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sorin, némésis sinistre', nameVo='Sorin, Grim Nemesis', extension='Ténèbres sur Innistrad', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Émancipation ardente', nameVo='Fiery Emancipation', extension='Édition de base 2021', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jarre-mémoire', nameVo='Memory Jar', extension='Héritage d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Colosse de pestacier', nameVo='Blightsteel Colossus', extension='Mirrodin Assiégé', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Révélation d'Alründ', nameVo='Alrund's Epiphany', extension='Kaldheim', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Médaillon de saphir', nameVo='Sapphire Medallion', extension='Commander 2014', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Monolithe sinistre', nameVo='Grim Monolith', extension='Héritage d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='250.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Seigneur des mort-vivants', nameVo='Lord of the Undead', extension='Salvat-Hachette', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Volonté de Yaugzebul', nameVo='Yawgmoth's Will', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='150.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Mobilisation', nameVo='Mobilize', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Messager de Geralf', nameVo='Geralf's Messenger', extension='Obscure Ascension', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Xiahou Dun, the One-Eyed', nameVo='Xiahou Dun, the One-Eyed', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='250.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dragon des catacombes', nameVo='Catacomb Dragon', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vigueur primordiale', nameVo='Primal Vigor', extension='Commander 2013', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vers le Nord', nameVo='Into the North', extension='Souffle glaciaire', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Serra en devenir', nameVo='Serra Ascendant', extension='Magic 2011', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chaîne de brouillard', nameVo='Chain of Smog', extension='Carnage', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Oubliette - Mana clair', nameVo='Oubliette - Light Symbol', extension='Arabian Nights', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Médaillon de jais', nameVo='Jet Medallion', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='All Hallow's Eve', nameVo='All Hallow's Eve', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Tutelle féroce', nameVo='Fierce Guardianship', extension='Commander 2020 : Ikoria', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Domination de congénères', nameVo='Kindred Dominance', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Amulette de vif-argent', nameVo='Quicksilver Amulet', extension='Magic 2012', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Suspens', nameVo='Abeyance', extension='Aquilon', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Valkyrie éradicatrice', nameVo='Eradicator Valkyrie', extension='Kaldheim', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ulamog, la Voracité insatiable', nameVo='Ulamog, the Ceaseless Hunger', extension='La bataille de Zendikar', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Typhon de requins', nameVo='Shark Typhoon', extension='Ikoria La Terre des Béhémoths', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dragon Avide', nameVo='Covetous Dragon', extension='Destinée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Le Dieu-Scarabée', nameVo='The Scarab God', extension='L'âge de la destruction', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Eveil du Mirari', nameVo='Mirari's Wake', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Havre kor', nameVo='Kor Haven', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Illusions de grandeur', nameVo='Illusions of Grandeur', extension='Ère glaciaire', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Some Disassembly Required', nameVo='Some Disassembly Required', extension='Happy Holidays Promos', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ripaille mortelle', nameVo='Deadly Rollick', extension='Commander 2020 : Ikoria', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Kruphix, dieu des Horizons', nameVo='Kruphix, God of Horizons', extension='Incursion dans Nyx', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Oeil d'Ugin', nameVo='Eye of Ugin', extension='Worldwake', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Athréos, dieu du Passage', nameVo='Athreos, God of Passage', extension='Incursion dans Nyx', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Épée de guerre et de paix', nameVo='Sword of War and Peace', extension='Nouvelle Phyrexia', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Tyran du carnage', nameVo='Carnage Tyrant', extension='Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jeune valkyrie', nameVo='Youthful Valkyrie', extension='Kaldheim Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bassin réfléchissant', nameVo='Reflecting Pool', extension='Sombrelande', lang='Français', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Corrupt Eunuchs', nameVo='Corrupt Eunuchs', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Amulette primordiale / Primal Wellspring', nameVo='Primal Amulet // Primal Wellspring', extension='Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gardien vert ancien', nameVo='Ancient Greenwarden', extension='Renaissance de Zendikar Extras', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shamane de la faune', nameVo='Fauna Shaman', extension='Magic 2011', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Warrior's Oath', nameVo='Warrior's Oath', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='200.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Arène phyrexiane', nameVo='Phyrexian Arena', extension='Commander 2015', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ruines dévastées', nameVo='Scorched Ruins', extension='Aquilon', lang='Anglais', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Strangulation', nameVo='Stranglehold', extension='Commander', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Xénagos, dieu de la Débauche', nameVo='Xenagos, God of Revels', extension='Créations Divines', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Casse-fiole la redoutable', nameVo='Vial Smasher the Fierce', extension='Commander 2016', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Kaya, usurpatrice d'Orzhov', nameVo='Kaya, Orzhov Usurper', extension='L'allégeance de Ravnica', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Olivia Voldaren', nameVo='Olivia Voldaren', extension='Innistrad', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Académie tolariane', nameVo='Tolarian Academy', extension='Epopée d'Urza', lang='Français', etat='Mint/Nmint', buyPrice='150.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cyclopean Tomb', nameVo='Cyclopean Tomb', extension='IE (Bord doré)', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Démon de la porte de la mort', nameVo='Demon of Death's Gate', extension='Magic 2011', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Archange de Thiune', nameVo='Archangel of Thune', extension='Magic 2014', lang='Français', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Zuo Ci, the Mocking Sage', nameVo='Zuo Ci, the Mocking Sage', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chuchoteur de mort', nameVo='Doom Whisperer', extension='Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aurélia, la Meneuse de guerre', nameVo='Aurelia, the Warleader', extension='Insurrection', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Médaillon de rubis', nameVo='Ruby Medallion', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Danse des cadavres', nameVo='Corpse Dance', extension='Tempête', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Malédiction d'opulence', nameVo='Curse of Opulence', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bruse Tarl, berger rustre', nameVo='Bruse Tarl, Boorish Herder', extension='Commander 2016', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Attrition', nameVo='Attrition', extension='Commander', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Grotte impie', nameVo='Unholy Grotto', extension='Carnage', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chef de guerre léonin', nameVo='Leonin Warleader', extension='Édition de base 2019', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Freyalise, Fureur de Llanowar', nameVo='Freyalise, Llanowar's Fury', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Éméria, la Ruine Céleste', nameVo='Emeria, the Sky Ruin', extension='Commander 2014', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Célébrant de combat', nameVo='Combat Celebrant', extension='Amonkhet', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Château d'Eiganjo', nameVo='Eiganjo Castle', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lathliss, reine des dragons', nameVo='Lathliss, Dragon Queen', extension='Édition de base 2019', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ravages of War', nameVo='Ravages of War', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='250.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chant des dryades', nameVo='Song of the Dryads', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Tour phyrexiane', nameVo='Phyrexian Tower', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Marché selon Yaugzebul', nameVo='Yawgmoth's Bargain', extension='Destinée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vampire captivant', nameVo='Captivating Vampire', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Zoubéri, Plume dorée', nameVo='Zuberi, Golden Feather', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chapelle isolée', nameVo='Isolated Chapel', extension='Innistrad', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lentille extraplanaire', nameVo='Extraplanar Lens', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dryade de jeunes pousses', nameVo='Tendershoot Dryad', extension='Les combattants d'Ixalan', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cheval solaire à crête', nameVo='Crested Sunmare', extension='L'âge de la destruction', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cuvette de la Yavimaya', nameVo='Yavimaya Hollow', extension='Destinée d'Urza', lang='Français', etat='Mint/Nmint', buyPrice='50.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Mu Yanling', nameVo='Mu Yanling', extension='Global Series: Jiang Yanggu & Mu Yanling', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lotus joailler', nameVo='Jeweled Lotus', extension='Commander Légendes', lang='Anglais', etat='Mint/Nmint', buyPrice='50.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sarkhan, âme-dragon', nameVo='Sarkhan, Dragonsoul', extension='Édition de base 2019', lang='Anglais', etat='Mint/Nmint', buyPrice='14.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ouvrier Métallurgiste', nameVo='Metalworker', extension='Destinée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='100.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Découverte de congénères', nameVo='Kindred Discovery', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Impact de Fracassecrâne / Fracassecrâne, le col des Marteaux', nameVo='Shatterskull Smashing // Shatterskull, the Hammer Pass', extension='Renaissance de Zendikar', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Kytheon, Héros d'Akros / Gideon, forgé dans la bataille', nameVo='Kytheon, Hero of Akros // Gideon, Battle-Forged', extension='Magic Origines', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Destinée angélique', nameVo='Angelic Destiny', extension='Magic 2012', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Skyline Despot', nameVo='Skyline Despot', extension='Conspiracy: Take the Crown', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Général Koudro de Drannith', nameVo='General Kudro of Drannith', extension='Ikoria La Terre des Béhémoths', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bassin morphique', nameVo='Morphic Pool', extension='Battlebond', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Elenda, la Rose du crépuscule', nameVo='Elenda, the Dusk Rose', extension='Les combattants d'Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome de Ketria', nameVo='Ketria Triome', extension='Ikoria La Terre des Béhémoths', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Emperion de platine', nameVo='Platinum Emperion', extension='Cicatrices de Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Heavy Fog', nameVo='Heavy Fog', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Elspeth, chevalière errante', nameVo='Elspeth, Knight-Errant', extension='Elspeth vs Tezzeret', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Malice selon le diablotin', nameVo='Imp's Mischief', extension='Chaos Planaire', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Nyléa, déesse de la Chasse', nameVo='Nylea, God of the Hunt', extension='Théros', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Control of the Court', nameVo='Control of the Court', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Iroas, dieu de la Victoire', nameVo='Iroas, God of Victory', extension='Commander 2016', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Épée de corps et d'esprit', nameVo='Sword of Body and Mind', extension='Cicatrices de Mirrodin', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Allosaurus Shepherd', nameVo='Allosaurus Shepherd', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='70.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cor du héraut', nameVo='Herald's Horn', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chandra, torche de la défiance', nameVo='Chandra, Torch of Defiance', extension='Kaladesh', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Esprit dévoué', nameVo='Selfless Spirit', extension='La lune hermétique', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gisa, meneuse de goule', nameVo='Ghoulcaller Gisa', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Branching Evolution', nameVo='Branching Evolution', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Corrupt Court Official', nameVo='Corrupt Court Official', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vrille d'effroi', nameVo='Dreadbore', extension='Retour sur Ravnica', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Grand abolisseur', nameVo='Grand Abolisher', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='14.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bruvac the Grandiloquent', nameVo='Bruvac the Grandiloquent', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Croissance mutagénique', nameVo='Mutagenic Growth', extension='Nouvelle Phyrexia', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Héliode, dieu du Soleil', nameVo='Heliod, God of the Sun', extension='Théros', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Heaume de la multitude', nameVo='Helm of the Host', extension='Dominaria', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Emiel the Blessed', nameVo='Emiel the Blessed', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bouleversement des convenances', nameVo='Disrupt Decorum', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jace, le sculpteur de l'esprit', nameVo='Jace, the Mind Sculptor', extension='Worldwake', lang='Français', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Muxus, Goblin Grandee', nameVo='Muxus, Goblin Grandee', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Justice karmique', nameVo='Karmic Justice', extension='Commander 2015', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lyra Aubevenant', nameVo='Lyra Dawnbringer', extension='Dominaria', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jouissance des richesses', nameVo='Revel in Riches', extension='Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Terrain de prédilection', nameVo='Stomping Ground', extension='Insurrection', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Téfeiri, héros de Dominaria', nameVo='Teferi, Hero of Dominaria', extension='Dominaria', lang='Français', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karlov du Conseil fantôme', nameVo='Karlov of the Ghost Council', extension='Commander 2015', lang='Français', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Tinybones, Trinket Thief', nameVo='Tinybones, Trinket Thief', extension='Jumpstart', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Thassa, déesse de la Mer', nameVo='Thassa, God of the Sea', extension='Théros', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sanctuaire de Serra', nameVo='Serra's Sanctum', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='200.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bibliothèque sylvestre', nameVo='Sylvan Library', extension='Renaissance', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Terreur des pics', nameVo='Terror of the Peaks', extension='Édition de base 2021', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Arcades, le stratège', nameVo='Arcades, the Strategist', extension='Édition de base 2019', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Compagnie rassemblée', nameVo='Collected Company', extension='Les Dragons de Tarkir', lang='Anglais', etat='Mint/Nmint', buyPrice='18.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ancien aux fleurs de Nyx', nameVo='Nyxbloom Ancient', extension='Theros Par-delà la Mort', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dryade du bosquet ilyséen', nameVo='Dryad of the Ilysian Grove', extension='Theros Par-delà la Mort', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Tapis de fleurs', nameVo='Carpet of Flowers', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Arachnogénèse', nameVo='Arachnogenesis', extension='Commander 2015', lang='Français', etat='Mint/Nmint', buyPrice='18.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Collecteur de charité', nameVo='Alms Collector', extension='Commander 2017', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dromoka, seigneur-dragon', nameVo='Dragonlord Dromoka', extension='Les Dragons de Tarkir', lang='Français', etat='Mint/Nmint', buyPrice='14.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Yule Ooze', nameVo='Yule Ooze', extension='Happy Holidays Promos', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Protection de Téfeiri', nameVo='Teferi's Protection', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Passage merveilleux', nameVo='Fabled Passage', extension='Le Trône d'Eldraine', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diable vexatoire', nameVo='Vexing Devil', extension='Avacyn ressuscitée', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Élève de Sakashima', nameVo='Sakashima's Student', extension='Planechase 2', lang='Anglais', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ugin, le dragon-esprit', nameVo='Ugin, the Spirit Dragon', extension='Destin Reforgé', lang='Français', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ancêtre gargaroth', nameVo='Elder Gargaroth', extension='Édition de base 2021', lang='Français', etat='Mint/Nmint', buyPrice='14.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Maître espion gobelin', nameVo='Goblin Spymaster', extension='Commander 2016', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ice Storm', nameVo='Ice Storm', extension='Collectors' Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ulamog, l'Épicycle Infini', nameVo='Ulamog, the Infinite Gyre', extension='L'ascension des Eldrazi', lang='Français', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Queen Marchesa', nameVo='Queen Marchesa', extension='Conspiracy: Take the Crown', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cao Cao, Lord of Wei', nameVo='Cao Cao, Lord of Wei', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Oko, voleur de couronnes - Version normale', nameVo='Oko, Thief of Crowns - Normal variant', extension='Le Trône d'Eldraine', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lu Su, Wu Advisor', nameVo='Lu Su, Wu Advisor', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jour du jugement dernier', nameVo='Doomsday', extension='Aquilon', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Justification', nameVo='Vindicate', extension='Apocalypse', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ange de l'inventivité', nameVo='Angel of Invention', extension='Kaladesh', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Imperial Seal', nameVo='Imperial Seal', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='1000.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Su-Chi', nameVo='Su-Chi', extension='Antiquities', lang='Anglais', etat='Mint/Nmint', buyPrice='120.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Garante de la paix', nameVo='Peacekeeper', extension='Aquilon', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Médaillon de perle', nameVo='Pearl Medallion', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Arahbo, Rugissement du monde', nameVo='Arahbo, Roar of the World', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Mondefeu', nameVo='Worldfire', extension='Magic 2013', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dilatation de l'esprit', nameVo='Mind's Dilation', extension='La lune hermétique', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Naughty // Nice', nameVo='Naughty // Nice', extension='Happy Holidays Promos', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Identité fracturée', nameVo='Fractured Identity', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karn, scion d'Urza', nameVo='Karn, Scion of Urza', extension='Dominaria', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Dragon du bûcher', nameVo='Balefire Dragon', extension='Innistrad', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gardien de la lignée / Seigneur de la succession', nameVo='Bloodline Keeper // Lord of Lineage', extension='Innistrad', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Straw Soldiers', nameVo='Straw Soldiers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lynx affamé', nameVo='Hungry Lynx', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Liliana, porteuse de mort', nameVo='Liliana, Death Wielder', extension='Amonkhet', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Drana, libératrice de Malakir', nameVo='Drana, Liberator of Malakir', extension='La bataille de Zendikar', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rites de croissance d'Itlimoc / Itlimoc, Berceau du Soleil', nameVo='Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun', extension='Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='O-Kagachi, kami vengeur', nameVo='O-Kagachi, Vengeful Kami', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Échardes d'aura', nameVo='Aura Shards', extension='Commander', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Liliana, épargnée par la mort', nameVo='Liliana, Untouched by Death', extension='Édition de base 2019', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Zodiac Ox', nameVo='Zodiac Ox', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Eightfold Maze', nameVo='Eightfold Maze', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Escouflenfer territorial', nameVo='Territorial Hellkite', extension='Commander 2017', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Emblem Elspeth, Knight-Errant', nameVo='Emblem Elspeth, Knight-Errant', extension='Modern Masters', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ajani l'inébranlable', nameVo='Ajani Steadfast', extension='Magic 2015', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Marshaling the Troops', nameVo='Marshaling the Troops', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Emprise du Praetor', nameVo='Praetor's Grasp', extension='Nouvelle Phyrexia', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Altisaure du zénith', nameVo='Apex Altisaur', extension='Commander 2019', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fraîcheur hivernale', nameVo='Winter's Chill', extension='Ère glaciaire', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Espace confiné', nameVo='Crawlspace', extension='Commander 2013', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Hunting Cheetah', nameVo='Hunting Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Exploitation de connaissance', nameVo='Knowledge Exploitation', extension='Lèveciel', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Barrin, maître sorcier', nameVo='Barrin, Master Wizard', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fonderie de modernisation', nameVo='Retrofitter Foundry', extension='Commander 2018', lang='Français', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Exsanguination', nameVo='Exsanguinate', extension='Cicatrices de Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Production mécanisée', nameVo='Mechanized Production', extension='La révolte éthérique', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Visions de l'au-delà', nameVo='Visions of Beyond', extension='Magic 2012', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Falaises de Coupenoire', nameVo='Blackcleave Cliffs', extension='Cicatrices de Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='18.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Haine', nameVo='Hatred', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Forcefield', nameVo='Forcefield', extension='Collectors' Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='100.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Kumena, tyran d'Orazca', nameVo='Kumena, Tyrant of Orazca', extension='Les combattants d'Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lune alpine', nameVo='Alpine Moon', extension='Édition de base 2019', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gauntlet of Might', nameVo='Gauntlet of Might', extension='Collectors' Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='150.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vaevictis Asmadi', nameVo='Vaevictis Asmadi', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='70.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Manoeuvre irréprochable', nameVo='Flawless Maneuver', extension='Commander 2020 : Ikoria', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Génitrice dragonne', nameVo='Dragon Broodmother', extension='Renaissance d'Alara', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Le monstre de Gitrog', nameVo='The Gitrog Monster', extension='Ténèbres sur Innistrad', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Season's Beatings', nameVo='Season's Beatings', extension='Happy Holidays Promos', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Guan Yu, Sainted Warrior', nameVo='Guan Yu, Sainted Warrior', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lu Meng, Wu General', nameVo='Lu Meng, Wu General', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='50.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Claque déflectrice', nameVo='Deflecting Swat', extension='Commander 2020 : Ikoria', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Huang Zhong, Shu General', nameVo='Huang Zhong, Shu General', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='45.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Alert Shu Infantry', nameVo='Alert Shu Infantry', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Jardin des cimes', nameVo='Spire Garden', extension='Battlebond', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Illusionary Mask', nameVo='Illusionary Mask', extension='IE (Bord doré)', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bramble Sovereign', nameVo='Bramble Sovereign', extension='Battlebond', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Charme de l'archimage', nameVo='Archmage's Charm', extension='Horizons du Modern', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Imbroglio de mixture', nameVo='Muddle the Mixture', extension='Ravnica : La cité des Guildes', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Brimaz, roi d'Oreskos', nameVo='Brimaz, King of Oreskos', extension='Créations Divines', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Promenade généreuse', nameVo='Bountiful Promenade', extension='Battlebond', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lady Zhurong, Warrior Queen', nameVo='Lady Zhurong, Warrior Queen', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='100.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Broken Dam', nameVo='Broken Dam', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Escouflenfer d'Utvara', nameVo='Utvara Hellkite', extension='Kits de Guilde : L'Allégeance de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ligne de vie', nameVo='Lifeline', extension='Epopée d'Urza', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Loyal Retainers', nameVo='Loyal Retainers', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Érébos, dieu des Morts', nameVo='Erebos, God of the Dead', extension='Théros', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Lanterne chromatique', nameVo='Chromatic Lantern', extension='Retour sur Ravnica', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Amulette de vigueur', nameVo='Amulet of Vigor', extension='Worldwake', lang='Anglais', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Escalade de violence', nameVo='Aggravated Assault', extension='Carnage', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Explosifs artificiels', nameVo='Engineered Explosives', extension='5ème Aube', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Vanneur du vide', nameVo='Void Winnower', extension='La bataille de Zendikar', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fouet d'Érébos', nameVo='Whip of Erebos', extension='Clash Pack Promos', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Atarka, seigneur-dragon', nameVo='Dragonlord Atarka', extension='Les Dragons de Tarkir', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Oblitérateur phyrexian', nameVo='Phyrexian Obliterator', extension='Nouvelle Phyrexia', lang='Anglais', etat='Mint/Nmint', buyPrice='18.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Zacama, Calamité primordiale', nameVo='Zacama, Primal Calamity', extension='Les combattants d'Ixalan', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Liliana des Royaumes obscurs', nameVo='Liliana of the Dark Realms', extension='Magic 2014', lang='Français', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Kozilek, Boucher de la Vérité', nameVo='Kozilek, Butcher of Truth', extension='L'ascension des Eldrazi', lang='Anglais', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Maître-chasseur de la lande / Ravageur de la lande', nameVo='Huntmaster of the Fells // Ravager of the Fells', extension='Obscure Ascension', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Hydre de force vive', nameVo='Lifeblood Hydra', extension='Commander 2014', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Krenko le caïd', nameVo='Krenko, Mob Boss', extension='Magic 2013', lang='Français', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Bâton de domination', nameVo='Staff of Domination', extension='5ème Aube', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Échos de mana', nameVo='Mana Echoes', extension='Carnage', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Faille cyclonique', nameVo='Cyclonic Rift', extension='Commander 2014', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Chronologue du phare', nameVo='Lighthouse Chronologist', extension='L'ascension des Eldrazi', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Selvala, Heart of the Wilds', nameVo='Selvala, Heart of the Wilds', extension='Conspiracy: Take the Crown', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Champ d'étoiles de Nyx', nameVo='Starfield of Nyx', extension='Magic Origines', lang='Français', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Obscur confident', nameVo='Dark Confidant', extension='Ravnica : La cité des Guildes', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aide de Sigarda', nameVo='Sigarda's Aid', extension='La lune hermétique', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Extraction chirurgicale', nameVo='Surgical Extraction', extension='Nouvelle Phyrexia', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cavernes aux gemmes', nameVo='Gemstone Caverns', extension='Spirale Temporelle Remastered', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Épopée d'Urza', nameVo='Urza's Saga', extension='Horizons du Modern 2 Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Marécage bourgeonnant', nameVo='Blooming Marsh', extension='Kaladesh', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fureur', nameVo='Fury', extension='Horizons du Modern 2 Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='15.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Résilience', nameVo='Endurance', extension='Horizons du Modern 2 Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='30.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Savourer l'instant', nameVo='Savor the Moment', extension='Sombrelande', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Eidôlon de la Grande célébration', nameVo='Eidolon of the Great Revel', extension='Incursion dans Nyx', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Ragavan, habile chapardeur', nameVo='Ragavan, Nimble Pilferer', extension='Horizons du Modern 2', lang='Anglais', etat='Mint/Nmint', buyPrice='45.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Agente de l'opposition', nameVo='Opposition Agent', extension='Commander Légendes', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Buffle de l'Agonas - Version sceau', nameVo='Ox of Agonas - Stamped Version', extension='Theros Par-delà la Mort Promos', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Gabriel Angelfire', nameVo='Gabriel Angelfire', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rick, Steadfast Leader', nameVo='Rick, Steadfast Leader', extension='Secret Lair', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Valkyrie juste', nameVo='Righteous Valkyrie', extension='Kaldheim', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Autel phyrexian', nameVo='Phyrexian Altar', extension='Invasion', lang='Anglais', etat='Mint/Nmint', buyPrice='35.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Blacker Lotus', nameVo='Blacker Lotus', extension='Unglued', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Hidden Path', nameVo='Hidden Path', extension='The Dark', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Mox de chrome', nameVo='Chrome Mox', extension='Double Masters', lang='Anglais', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Capture of Jingzhou', nameVo='Capture of Jingzhou', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='200.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Zhang He, Wei General', nameVo='Zhang He, Wei General', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='40.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sagacité de Mirri', nameVo='Mirri's Guile', extension='Tempête', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Damnation', nameVo='Damnation', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='100.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Professeur Onyx', nameVo='Professor Onyx', extension='Strixhaven : l'académie des mages Extras', lang='Français', etat='Mint/Nmint', buyPrice='12.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Féal des arbres creux', nameVo='Liege of the Hollows', extension='Aquilon', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Éfrit frénétique', nameVo='Frenetic Efreet', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 2 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 3 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 4 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 5 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 6 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 7 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 8 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 9 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 10 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 11 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 15 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 23 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 27 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 28 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 29 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 32 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 34 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 24
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Convulsion cérébrale', nameVo='Mind Twist', extension='Revised - 3ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Plume, l'affranchie', nameVo='Feather, the Redeemed', extension='Spirale Temporelle Remastered Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Calice du vide', nameVo='Chalice of the Void', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diabolique dessein', nameVo='Diabolic Intent', extension='Planeshift', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aeolipile', nameVo='Aeolipile', extension='Fallen Empires', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sphère de résistance', nameVo='Sphere of Resistance', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Klauth, ancêtre sans égal', nameVo='Klauth, Unrivaled Ancient', extension='Commander D&D : Aventures dans les Royaumes Oubliés Extras', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Excavations soldevies', nameVo='Soldevi Excavations', extension='Alliances', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cape de la nature', nameVo='Nature's Cloak', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Burning Fields', nameVo='Burning Fields', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Counterintelligence', nameVo='Counterintelligence', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desperate Charge', nameVo='Desperate Charge', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rockslide Ambush', nameVo='Rockslide Ambush', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shu Soldier-Farmers', nameVo='Shu Soldier-Farmers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Trained Cheetah', nameVo='Trained Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Enchevêtrement de câbles', nameVo='Tangle Wire', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Commandement de Prismari', nameVo='Prismari Command', extension='Strixhaven : l'académie des mages', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fête fracassante', nameVo='Shattering Spree', extension='Kits de Guilde : Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diamant de l'oeil du lion', nameVo='Lion's Eye Diamond', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karakas', nameVo='Karakas', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='75.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aucune pitié', nameVo='No Mercy', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='60.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Beledros Flestrefleur', nameVo='Beledros Witherbloom', extension='Strixhaven : l'académie des mages Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aperçu de la nature', nameVo='Glimpse of Nature', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome d'Indatha', nameVo='Indatha Triome', extension='Ikoria La Terre des Béhémoths Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 2 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 3 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 4 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 5 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 6 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 7 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 8 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 9 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 10 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 11 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 12 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 13 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 14 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 15 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 16 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 17 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 18 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 19 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 20 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 21 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 22 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 23 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 24 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 25 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 26 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 27 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 28 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 29 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 30 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 31 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 32 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 33 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 34 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  service.MagicBazarReader  - Impossible de récuppérer les éléments de la page 35 : javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+[main] INFO  ISmellProfits  - Nombre de carte sur la hotlist de magicbazar : 24
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Convulsion cérébrale', nameVo='Mind Twist', extension='Revised - 3ème Edition', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Plume, l'affranchie', nameVo='Feather, the Redeemed', extension='Spirale Temporelle Remastered Extras', lang='Français', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Calice du vide', nameVo='Chalice of the Void', extension='Mirrodin', lang='Anglais', etat='Mint/Nmint', buyPrice='25.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diabolique dessein', nameVo='Diabolic Intent', extension='Planeshift', lang='Français', etat='Mint/Nmint', buyPrice='20.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aeolipile', nameVo='Aeolipile', extension='Fallen Empires', lang='Anglais', etat='Mint/Nmint', buyPrice='6.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Sphère de résistance', nameVo='Sphere of Resistance', extension='Exode', lang='Anglais', etat='Mint/Nmint', buyPrice='16.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Klauth, ancêtre sans égal', nameVo='Klauth, Unrivaled Ancient', extension='Commander D&D : Aventures dans les Royaumes Oubliés Extras', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Excavations soldevies', nameVo='Soldevi Excavations', extension='Alliances', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Cape de la nature', nameVo='Nature's Cloak', extension='Portal', lang='Français', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Burning Fields', nameVo='Burning Fields', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Counterintelligence', nameVo='Counterintelligence', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Desperate Charge', nameVo='Desperate Charge', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='8.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Rockslide Ambush', nameVo='Rockslide Ambush', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Shu Soldier-Farmers', nameVo='Shu Soldier-Farmers', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='5.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Trained Cheetah', nameVo='Trained Cheetah', extension='Portal 3', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Enchevêtrement de câbles', nameVo='Tangle Wire', extension='Nemesis', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Commandement de Prismari', nameVo='Prismari Command', extension='Strixhaven : l'académie des mages', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Fête fracassante', nameVo='Shattering Spree', extension='Kits de Guilde : Les Guildes de Ravnica', lang='Français', etat='Mint/Nmint', buyPrice='4.5', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Diamant de l'oeil du lion', nameVo='Lion's Eye Diamond', extension='Mirage', lang='Anglais', etat='Mint/Nmint', buyPrice='300.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Karakas', nameVo='Karakas', extension='Legends', lang='Anglais', etat='Mint/Nmint', buyPrice='75.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aucune pitié', nameVo='No Mercy', extension='Amonkhet Invocations', lang='Anglais', etat='Mint/Nmint', buyPrice='60.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Beledros Flestrefleur', nameVo='Beledros Witherbloom', extension='Strixhaven : l'académie des mages Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='10.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Aperçu de la nature', nameVo='Glimpse of Nature', extension='Guerriers de Kamigawa', lang='Anglais', etat='Mint/Nmint', buyPrice='9.0', foil='null'}
+[main] INFO  ISmellProfits  - MagicBazarCard{nameVf='Triome d'Indatha', nameVo='Indatha Triome', extension='Ikoria La Terre des Béhémoths Extras', lang='Anglais', etat='Mint/Nmint', buyPrice='7.0', foil='null'}
