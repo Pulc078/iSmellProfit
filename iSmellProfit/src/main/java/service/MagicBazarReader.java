@@ -2,7 +2,8 @@ package service;
 
 import model.MagicBazarCard;
 import model.UrlEditionEnum;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -13,7 +14,7 @@ import java.util.List;
 
 public class MagicBazarReader {
 
-    private static Logger logger = Logger.getLogger(MagicBazarReader.class);
+    private static final Logger logger = LogManager.getLogger(MagicBazarReader.class);
 
 
     public MagicBazarReader() {
