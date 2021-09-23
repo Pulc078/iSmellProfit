@@ -1,5 +1,6 @@
 import model.MagicBazarCard;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import service.MagicBazarReader;
 
 import java.io.IOException;
@@ -7,8 +8,7 @@ import java.util.List;
 
 public class ISmellProfits {
 
-    private static Logger logger = Logger.getLogger(ISmellProfits.class);
-
+    private static final Logger logger = LogManager.getLogger(ISmellProfits.class);
 
     public static void main(String[] args) {
         MagicBazarReader magicBazarReader = new MagicBazarReader();

@@ -1,9 +1,9 @@
 package service;
 
 import model.MagicBazarCard;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.*;
-import org.apache.poi.xssf.usermodel.XSSFCellStyle;
 import org.apache.poi.xssf.usermodel.XSSFFont;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class ExcelWriter {
 
-    private static Logger logger = Logger.getLogger(ExcelWriter.class);
+    private static final Logger logger = LogManager.getLogger(MagicBazarReader.class);
 
     public ExcelWriter() {
     }
@@ -31,8 +31,8 @@ public class ExcelWriter {
 
         logger.info("Writing Excel File");
 
-        XSSFFont font= (XSSFFont) wb.createFont();
-        font.setFontHeightInPoints((short)10);
+        XSSFFont font = (XSSFFont) wb.createFont();
+        font.setFontHeightInPoints((short) 10);
         font.setFontName("Arial");
         font.setColor(IndexedColors.BLACK.getIndex());
         font.setBold(true);
@@ -81,7 +81,7 @@ public class ExcelWriter {
             writeLigne(card, row);
         }
 
-        for (int i = 0; i <  7 ; i++) {
+        for (int i = 0; i < 7; i++) {
             sheet.autoSizeColumn(i);
         }
 
