@@ -1,10 +1,8 @@
 import model.MagicBazarCard;
 import org.apache.log4j.Logger;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 import service.MagicBazarReader;
 
-import java.util.ArrayList;
+import java.io.IOException;
 import java.util.List;
 
 public class ISmellProfits {
@@ -13,28 +11,17 @@ public class ISmellProfits {
 
 
     public static void main(String[] args) {
+        MagicBazarReader magicBazarReader = new MagicBazarReader();
 
-        List<MagicBazarCard> magicBazarCardList = new ArrayList<>();
+        List<MagicBazarCard> magicBazarCardList = magicBazarReader.getMagicBazarCards();
 
-      for (int i = 1; i < 36; i++) {
-            MagicBazarReader magicBazarReader = new MagicBazarReader();
+        service.ExcelWriter excelWriter = new service.ExcelWriter();
 
-            magicBazarCardList.addAll(magicBazarReader.getHotList(i));
-
+        try {
+            excelWriter.writeExcel(magicBazarCardList);
+        } catch (IOException e) {
+            logger.info("Impossile de créer le fichier Excel : " + e);
         }
-
-
-
-
-
-        logger.info("Nombre de carte sur la hotlist de magicbazar : " + magicBazarCardList.size());
-        for (MagicBazarCard m : magicBazarCardList) {
-            logger.info(m.toString());
-        }
-
-        // service.ExcelWriter excelWriter = new service.ExcelWriter();
-
-        // excelWriter.writeExcel(magicBazarCardList);
 
     }
 
