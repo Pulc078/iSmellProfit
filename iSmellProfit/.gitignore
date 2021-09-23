@@ -1,3 +1,6 @@
 .idea/*
 output/*
 demoApplication.log
+target
+output/
+demoApplication.log
