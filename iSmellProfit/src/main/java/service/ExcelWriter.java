@@ -1,17 +1,20 @@
 package service;
 
 import model.MagicBazarCard;
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.log4j.Logger;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.xssf.usermodel.XSSFCellStyle;
+import org.apache.poi.xssf.usermodel.XSSFFont;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
+import java.util.Scanner;
 
 public class ExcelWriter {
+
+    private static Logger logger = Logger.getLogger(ExcelWriter.class);
 
     public ExcelWriter() {
     }
@@ -22,20 +25,75 @@ public class ExcelWriter {
      * @param magicBazarCardList : liste des cartes à renseigner sur le fichier excel
      * @throws IOException : en cas d'erreur sur l'écriture du fichier
      */
-    void writeExcel(List<MagicBazarCard> magicBazarCardList) throws IOException {
-        Workbook workbook = new HSSFWorkbook();
-        Sheet sheet = workbook.createSheet();
+    public void writeExcel(List<MagicBazarCard> magicBazarCardList) throws IOException {
+        Workbook wb = new XSSFWorkbook();
+        Sheet sheet = wb.createSheet();
+
+        logger.info("Writing Excel File");
+
+        XSSFFont font= (XSSFFont) wb.createFont();
+        font.setFontHeightInPoints((short)10);
+        font.setFontName("Arial");
+        font.setColor(IndexedColors.BLACK.getIndex());
+        font.setBold(true);
+        font.setItalic(false);
+
+        CellStyle style = wb.createCellStyle();
+        style.setFont(font);
 
         int rowCount = 0;
+        Row row = sheet.createRow(++rowCount);
 
+        //Création des entêtes de colonne
+        Cell cell = row.createCell(0);
+        cell.setCellValue("Prix d'achat");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(1);
+        cell.setCellValue("Nom Français");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(2);
+        cell.setCellValue("Nom Anglais");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(3);
+        cell.setCellValue("Etat");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(4);
+        cell.setCellValue("Extension");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(5);
+        cell.setCellValue("Langue");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(6);
+        cell.setCellValue("Foil");
+        cell.setCellStyle(style);
+
+
+        //écriture des données du fichier excel
         for (MagicBazarCard card : magicBazarCardList) {
-            Row row = sheet.createRow(++rowCount);
+            row = sheet.createRow(++rowCount);
+            logger.info("Writing line " + rowCount);
             writeLigne(card, row);
         }
 
-        try (FileOutputStream outputStream = new FileOutputStream("C:/Users/lucde/OneDrive/Bureau/Luc/plaayground/iSmellProfit/output/MagicBazar.xls")) {
-            workbook.write(outputStream);
+        for (int i = 0; i <  7 ; i++) {
+            sheet.autoSizeColumn(i);
         }
+
+        Scanner reader = new Scanner(System.in);  // Reading from System.in
+        System.out.println("Enter filepath for output like C:\\exemple\\de\\chemin  : ");
+        String sortie = reader.nextLine();
+
+        try (FileOutputStream outputStream = new FileOutputStream(sortie + "\\MagicBazardCards.xlsx")) {
+            wb.write(outputStream);
+        }
+
+        logger.info("File MagicBazardCards.xlsx is complete");
     }
 
 
@@ -46,7 +104,11 @@ public class ExcelWriter {
      * @param row  : numéro de la ligne à écrire
      */
     private static void writeLigne(MagicBazarCard card, Row row) {
-        Cell cell = row.createCell(1);
+
+        Cell cell = row.createCell(0);
+        cell.setCellValue(card.getBuyPrice());
+
+        cell = row.createCell(1);
         cell.setCellValue(card.getNameVf());
 
         cell = row.createCell(2);
@@ -64,7 +126,5 @@ public class ExcelWriter {
         cell = row.createCell(6);
         cell.setCellValue(card.getFoil());
 
-        cell = row.createCell(7);
-        cell.setCellValue(card.getBuyPrice());
     }
 }

@@ -1,0 +1,5 @@
+model\UrlEditionEnum.class
+service\ExcelWriter.class
+service\MagicBazarReader.class
+model\MagicBazarCard.class
+ISmellProfits.class
