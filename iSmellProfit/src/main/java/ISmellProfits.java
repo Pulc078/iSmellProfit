@@ -1,7 +1,9 @@
+import model.CompareCard;
 import model.MagicBazarCard;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import service.MagicBazarReader;
+import service.MkmReader;
 
 import java.io.IOException;
 import java.util.List;
@@ -14,6 +16,9 @@ public class ISmellProfits {
         MagicBazarReader magicBazarReader = new MagicBazarReader();
 
         List<MagicBazarCard> magicBazarCardList = magicBazarReader.getMagicBazarCards();
+
+        MkmReader mkmReader = new MkmReader();
+        List<CompareCard> compareCardList = mkmReader.getComparaisonList(magicBazarCardList);
 
         service.ExcelWriter excelWriter = new service.ExcelWriter();
 

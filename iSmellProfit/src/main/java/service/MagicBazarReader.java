@@ -4,7 +4,6 @@ import model.MagicBazarCard;
 import model.UrlEditionEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -51,19 +50,10 @@ public class MagicBazarReader {
 
         List<MagicBazarCard> magicBazarCardList = new ArrayList<>();
 
+        JsoupHelper jsoupHelper = new JsoupHelper();
 
-        Document doc = new Document("");
-        try {
-            logger.info("Getting card from hotlist page number " + i);
-            doc = Jsoup.connect(url)
-                    .userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21")
-                    .referrer("http://www.google.com")
-                    .get();
-
-        } catch (Exception e) {
-            logger.error("Error while getting information from page : " + i + " : " + e);
-        }
-
+        logger.info("Getting card from hotlist page number " + i);
+        Document doc = jsoupHelper.getConnexion(url, "Error while getting information from page : " + i + " : ");
 
         Elements newsHeadlines = doc.select(".container_info_card");
 
@@ -89,17 +79,10 @@ public class MagicBazarReader {
 
         List<MagicBazarCard> magicBazarCardList = new ArrayList<>();
 
-        Document doc = new Document("");
-        try {
-            logger.info("Getting card from edition : " + edition);
-            doc = Jsoup.connect(url)
-                    .userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21")
-                    .referrer("http://www.google.com")
-                    .get();
+        JsoupHelper jsoupHelper = new JsoupHelper();
+        logger.info("Getting card from edition : " + edition);
+        Document doc = jsoupHelper.getConnexion(url, "Error while getting information from edition : " + edition + " : ");
 
-        } catch (Exception e) {
-            logger.error("Error while getting information from page : " + edition + " : " + e);
-        }
 
         Elements newsHeadlines = doc.select(".filterElement.cards");
 

@@ -354,9 +354,9 @@ public enum UrlEditionEnum {
     JUMPSTART_2022("999-jumpstart_2022");
 
 
-    private String value;
+    private final String value;
 
-    private UrlEditionEnum(String value) {
+    UrlEditionEnum(String value) {
         this.value = value;
     }
 
