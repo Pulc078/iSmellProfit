@@ -1,5 +1,7 @@
-C:\Users\Utilisateur\Desktop\Dossier Luc\Dev_Project\iSmellProfit\iSmellProfit\src\main\java\model\MagicBazarCard.java
-C:\Users\Utilisateur\Desktop\Dossier Luc\Dev_Project\iSmellProfit\iSmellProfit\src\main\java\service\ExcelWriter.java
-C:\Users\Utilisateur\Desktop\Dossier Luc\Dev_Project\iSmellProfit\iSmellProfit\src\main\java\ISmellProfits.java
-C:\Users\Utilisateur\Desktop\Dossier Luc\Dev_Project\iSmellProfit\iSmellProfit\src\main\java\model\UrlEditionEnum.java
-C:\Users\Utilisateur\Desktop\Dossier Luc\Dev_Project\iSmellProfit\iSmellProfit\src\main\java\service\MagicBazarReader.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\api\controller\ISmellProfitsController.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\application\model\UrlEditionEnum.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\application\service\MagicBazarReaderService.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\application\service\ExcelWriterService.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\ISmellProfits.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\application\model\MagicBazarCard.java
+C:\Users\lucde\Desktop\Luc\Playground\iSmellProfit\iSmellProfit\src\main\java\fr\denoyel\luc\application\service\ISmellProfitService.java

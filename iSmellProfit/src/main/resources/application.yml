@@ -1,0 +1,12 @@
+logging:
+    level:
+        root : INFO
+        org.springframework : INFO
+
+spring:
+    application:
+        name: I SMEL PROFITS
+    autoconfigure:
+      exclude:
+        - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+        - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration

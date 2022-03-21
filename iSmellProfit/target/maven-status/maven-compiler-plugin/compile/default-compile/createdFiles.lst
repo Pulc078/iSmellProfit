@@ -1,5 +1,8 @@
-model\UrlEditionEnum.class
-service\ExcelWriter.class
-service\MagicBazarReader.class
-model\MagicBazarCard.class
-ISmellProfits.class
+fr\denoyel\luc\application\model\UrlEditionEnum.class
+fr\denoyel\luc\application\model\MagicBazarCard$MagicBazarCardBuilder.class
+fr\denoyel\luc\application\service\ExcelWriterService.class
+fr\denoyel\luc\application\service\MagicBazarReaderService.class
+fr\denoyel\luc\api\controller\ISmellProfitsController.class
+fr\denoyel\luc\application\service\ISmellProfitService.class
+fr\denoyel\luc\application\model\MagicBazarCard.class
+fr\denoyel\luc\ISmellProfits.class
